@@ -9,6 +9,7 @@
 * SSRPlus
 * Turbo ACC
 * Argon主题
+* 广告过滤
 * 可自定义软件包
 
 ## 用法
