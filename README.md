@@ -1,6 +1,6 @@
 # 关于这个固件
 
-> 这个仓库基于[P3TERX/Actions-OpenWrt](https://github.com/P3TERX/Actions-OpenWrt)
+> 这个仓库基于[P3TERX/Actions-OpenWrt](https://github.com/P3TERX/Actions-OpenWrt)和[DreamWalkerXZ/Actions-OpenWrt](https://github.com/DreamWalkerXZ/Actions-OpenWrt-K2P)
 
 用Github Actions为K2P自动编译固件
 
