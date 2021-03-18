@@ -23,11 +23,11 @@ Use Github Actions Automatically compile firmware for K2P
    | Default address | `192.168.2.1` |
    | Default password | `password` |
 
-## 截图
+## Screenshot
 
 ![luci\_admin\_status\_overview](https://i.loli.net/2021/03/18/CXhbSEY2qG1gT4B.png)
 
-## 注意
+## Issue
 * Redmi K30 Ultra and other MTK Dimensity 1000+ devices (I don’t know if other Dimensity devices are affected) may only have 433Mbps (at least my mobile phone is like this). The reason has not been found yet. If you know the reason, please submit an issue. 
 
 ![K30U\_Issues](https://i.loli.net/2021/03/18/TsXa75gWvLr3wOI.jpg)
