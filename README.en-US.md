@@ -2,7 +2,7 @@
 
 > This repository is based on [P3TERX/Actions-OpenWrt](https://github.com/P3TERX/Actions-OpenWrt) and [DreamWalkerXZ/Actions-OpenWrt](https://github.com/DreamWalkerXZ/Actions-OpenWrt-K2P)
 
-Use Github Actions Automatically compile firmware for K2P 
+Use Github Actions Automatically compile firmware for Phicomm K2P 
 
 ## Feature
 
