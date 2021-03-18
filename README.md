@@ -25,15 +25,6 @@
    | 默认后台地址 | `192.168.2.1` |
    | 默认后台密码 | `password` |
 
-## 截图
-
-![luci\_admin\_status\_overview](https://i.loli.net/2021/03/18/CXhbSEY2qG1gT4B.png)
-
-## 注意
-* Redmi K30 Ultra等MTK天玑1000+设备(不知道其它天玑设备有没有被波及)可能只有433Mbps(至少本人手机是这样)，目前尚未查明原因，如果知道原因，欢迎提issue。
-
-![K30U\_Issues](https://i.loli.net/2021/03/18/TsXa75gWvLr3wOI.jpg)
-
 ## 教程 <a id="tutorial"></a>
 
 * [如何安装固件](tutorial/how-to-install-the-firmware.md)
@@ -45,3 +36,11 @@
 * [问题的通用解决方法](q-and-a/how-to-solve-problems.md)
 * [K2P应该怎样更科学地上网](q-and-a/how-to-get-k2p-online-more-wisely.md)
 
+## 截图
+
+![luci\_admin\_status\_overview](https://i.loli.net/2021/03/18/CXhbSEY2qG1gT4B.png)
+
+## 注意
+* Redmi K30 Ultra等MTK天玑1000+设备(不知道其它天玑设备有没有被波及)可能只有433Mbps(至少本人手机是这样)，目前尚未查明原因，如果知道原因，欢迎提issue。
+
+![K30U\_Issues](https://i.loli.net/2021/03/18/TsXa75gWvLr3wOI.jpg)
