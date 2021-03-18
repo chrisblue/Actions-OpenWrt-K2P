@@ -1,3 +1,5 @@
+简体中文 | [English](./README.en-US.md)
+
 # 关于这个固件
 
 > 这个仓库基于[P3TERX/Actions-OpenWrt](https://github.com/P3TERX/Actions-OpenWrt)和[DreamWalkerXZ/Actions-OpenWrt](https://github.com/DreamWalkerXZ/Actions-OpenWrt-K2P)
