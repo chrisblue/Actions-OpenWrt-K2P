@@ -24,5 +24,5 @@
 
 ## 截图
 
-![luci\_admin\_status\_overview](https://i.loli.net/2020/04/26/6TCfqUzPX9aLjyk.png)
+![luci\_admin\_status\_overview](https://i.loli.net/2021/03/18/CXhbSEY2qG1gT4B.png)
 
