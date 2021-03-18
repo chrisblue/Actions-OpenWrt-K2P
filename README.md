@@ -16,7 +16,7 @@
 
 1. 上传自己的`.config`文件
 2. 进入Actions页面手动启动编译
-3. 当编译完成后，在Actions页面的右上角，点击Artifacts按钮下载含编译出的固件的压缩包
+3. 当编译完成后，在Actions页面的右上角，点击Artifacts按钮或者Annotations里面的WeTransfer链接下载含编译出的固件的压缩包
 4. 进入breed，选择⚠️斐讯布局⚠️刷入压缩包中含`sysupgrade`字样的文件
 5. | 项目 | 值 |
    | :--- | :--- |
