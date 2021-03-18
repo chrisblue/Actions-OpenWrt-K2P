@@ -29,4 +29,5 @@
 
 ## 注意
 * Redmi K30 Ultra等MTK天玑1000+设备(不知道其它天玑设备有没有被波及)只有433Mbps，目前尚未查明原因，如果知道原因，欢迎提issue
-![K30U\_Issues\](https://i.loli.net/2021/03/18/TsXa75gWvLr3wOI.jpg)
+* 
+![K30U\_Issues](https://i.loli.net/2021/03/18/TsXa75gWvLr3wOI.jpg)
