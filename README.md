@@ -31,11 +31,6 @@
 * [如何更新固件](tutorial/ru-he-geng-xin-gu-jian.md)
 * [如何安装软件包](tutorial/how-to-install-custom-packages.md)
 
-## 常见问题解答 <a id="q-and-a"></a>
-
-* [问题的通用解决方法](q-and-a/how-to-solve-problems.md)
-* [K2P应该怎样更科学地上网](q-and-a/how-to-get-k2p-online-more-wisely.md)
-
 ## 截图
 
 ![luci\_admin\_status\_overview](https://i.loli.net/2021/03/18/CXhbSEY2qG1gT4B.png)
