@@ -2,7 +2,7 @@
 
 ## 图解
 
-![](../.gitbook/assets/10.10.10.2_cgi-bin_luci_admin_system_flashops.png)
+![](../.gitbook/assets/Upgrade.png)
 
 ## 注意事项
 
